@@ -1,4 +1,4 @@
-# Acceleration Robotics Newsletter formats test 
+# Acceleration Robotics Newsletter format test 
 
 ### Intel axes older FPGA cards, moves development into hands of customers
 
